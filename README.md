@@ -311,7 +311,7 @@ Possible extensions:
 
 ### Snowflake Database Structure
 
-![Snowflake Database Schema](docs/snowflake_database_schema.png)
+![Snowflake Database Schema](docs/snowflake_data_warehouse_schema.png)
 
 ![Ejecución exitosa del pipeline](docs/ejecucionexit.png)
 
